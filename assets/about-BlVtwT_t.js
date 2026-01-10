@@ -1,0 +1,1 @@
+import{d as e,c as t,o as a}from"./index-TxjTzAdj.js";const c=e({__name:"about",setup(o){return(n,s)=>(a(),t("p",null," Site made by Greg Rogers using results available on the ICSCC website. "))}});export{c as default};
